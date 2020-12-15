@@ -1,0 +1,5 @@
+var1 = 25
+list = [24, 24, 56]
+
+for num in range(32, 40):
+    print(num)

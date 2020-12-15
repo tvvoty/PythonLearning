@@ -1,0 +1,11 @@
+import os
+
+
+print(os.getcwd())
+
+# os.chdir('E:\PythonProjects\SubDif')
+
+os.mkdir('testosfolder')
+# print(os.getcwd())
+
+print(os.listdir())
